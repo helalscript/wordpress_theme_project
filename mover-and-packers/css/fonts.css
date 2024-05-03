@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Lora";
+  src: url("https://templatebundle.net/"); /* IE9 Compat Modes */
+  src: url("https://templatebundle.net/#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://templatebundle.net/") format("svg"), /* Legacy iOS */
+    url("https://templatebundle.net/") format("truetype"), /* Safari, Android, iOS */
+    url("https://templatebundle.net/") format("woff"), /* Modern Browsers */
+    url("https://templatebundle.net/") format("woff2"); /* Modern Browsers */
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lora";
+  src: url("https://templatebundle.net/"); /* IE9 Compat Modes */
+  src: url("https://templatebundle.net/#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://templatebundle.net/") format("svg"), /* Legacy iOS */
+    url("https://templatebundle.net/") format("truetype"), /* Safari, Android, iOS */
+    url("https://templatebundle.net/") format("woff"), /* Modern Browsers */
+    url("https://templatebundle.net/") format("woff2"); /* Modern Browsers */
+  font-weight: 400;
+  font-style: normal;
+}
+
